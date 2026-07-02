@@ -8,8 +8,8 @@ version = "0.5.0"
 description = "Passive equipment-integrity monitor for Zwift sessions: fingerprints trainers/HRMs and flags spoofing or man-in-the-middle bridges"
 readme = "README.md"
 requires-python = ">=3.10"
-license = { file = "LICENSE" }
-authors = [{ name = "Jason D" }]
+license = { file = "Proprietary License" }
+authors = [{ name = "Jason Drummond" }]
 keywords = ["zwift", "anti-cheat", "ble", "ant+", "integrity", "smart-trainer"]
 classifiers = [
     "Environment :: Console",
