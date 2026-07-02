@@ -1,0 +1,41 @@
+Proprietary License (PL)
+Version 1.0 — 2026
+
+Copyright (c) 2024 Jason Drumm
+All rights reserved.
+
+1. Ownership
+All source code, documentation, and related materials in this repository
+("the Software") are the exclusive intellectual property of Jason Drumm.
+No transfer of ownership is granted by accessing, viewing, or contributing
+to the Software.
+
+2. Permitted Use
+You may view the Software and, if granted explicit written permission,
+contribute modifications solely for the purpose of collaboration within
+this repository.
+
+3. Prohibited Use
+Unless you receive explicit written authorization from Jason Drummond, you
+may NOT:
+- Copy, reproduce, or distribute the Software
+- Modify or create derivative works outside this repository
+- Use the Software in any commercial, academic, or personal project
+- Publish, sublicense, or incorporate the Software into other codebases
+
+4. Contributions
+Any contributions made to the Software become the exclusive property of
+Jason Drummond. Contributors waive any claim of ownership or rights to their
+submitted code.
+
+5. No Warranty
+The Software is provided “as is” without warranty of any kind. Jason
+Drummond is not liable for any damages arising from use or inability to use
+the Software.
+
+6. Termination
+Permission to collaborate may be revoked at any time. Upon revocation,
+you must cease all use of the Software and delete any local copies.
+
+By accessing or contributing to this repository, you agree to the terms
+of the Jason Proprietary License.
